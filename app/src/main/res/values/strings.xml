@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExifViewer</string>
+    <string name="pick_an_image">pick an image</string>
+</resources>
